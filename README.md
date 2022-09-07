@@ -9,7 +9,7 @@ We use deeplearnign4j library to create Neural network models in Java to create 
 - Git
 
 ## Maven Libraries
-- apache.cassandra.all (1.2.6 used)
+- apache.cassandra.all (4.0.5 used)
 - deeplearning4j.core (0.9.1 used)
 - nd4j.native.platform (0.9.1 used)
 
